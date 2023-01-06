@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 06 15:03:07 KST 2023","Fri Jan 06 15:03:08 KST 2023","816","","com.eden.seleniummoni.MainPageTest","","com.eden.seleniummoni.MainPageTest","navigationToAllTools","navigationToAllTools()",""
+"passed","Fri Jan 06 15:03:01 KST 2023","Fri Jan 06 15:03:07 KST 2023","5332","","com.eden.seleniummoni.MainPageTest","","com.eden.seleniummoni.MainPageTest","search","search()",""
+"skipped","Fri Jan 06 15:03:14 KST 2023","Fri Jan 06 15:03:14 KST 2023","0","","com.eden.seleniummoni.daily.GmaketPageTest","","com.eden.seleniummoni.daily.GmaketPageTest","test1","Gmarket 출석체크",""
+"passed","Fri Jan 06 15:03:16 KST 2023","Fri Jan 06 15:03:17 KST 2023","1066","","com.eden.seleniummoni.daily.Sh2PageTest","","com.eden.seleniummoni.daily.Sh2PageTest","firstLineTitle","SH 주택임대 공고 최신 게시물",""
+"passed","Fri Jan 06 15:03:08 KST 2023","Fri Jan 06 15:03:14 KST 2023","5663","","com.eden.seleniummoni.daily.ElyesPageTest","","com.eden.seleniummoni.daily.ElyesPageTest","test1","롯데캐슬 Elyes 신규 공고",""
+"passed","Fri Jan 06 15:03:14 KST 2023","Fri Jan 06 15:03:16 KST 2023","1782","","com.eden.seleniummoni.daily.Sh1PageTest","","com.eden.seleniummoni.daily.Sh1PageTest","firstLineTitle","SH 주택분양 공고 최신 게시물",""
+"passed","Fri Jan 06 15:03:07 KST 2023","Fri Jan 06 15:03:07 KST 2023","702","","com.eden.seleniummoni.MainPageTest","","com.eden.seleniummoni.MainPageTest","toolsMenu","toolsMenu()",""
